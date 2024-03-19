@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lu Shuo, a undergraduate in HIT.
+- 👋 Hi, I’m Lu Shuo, from 哈尔滨工业大学 | Harbin Institute of Technology(HIT).
 - 👀 I’m interested in OOD detectioin, affective computing.
 - 📫 Feel free to drop me an email (shuolucs@gmail.com) if you're interested.
 
