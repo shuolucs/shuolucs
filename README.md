@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lu Shuo, from 哈尔滨工业大学 | Harbin Institute of Technology(HIT).
+- 👋 Hi, I’m Lu Shuo, from 哈尔滨工业大学 | Harbin Institute of Technology(HIT). I'm going to CSAIA to pursue a master's degree soon.
 - 👀 I’m interested in OOD detectioin, affective computing.
 - 📫 Feel free to drop me an email (shuolucs@gmail.com) if you're interested.
 
