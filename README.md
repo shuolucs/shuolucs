@@ -1,5 +1,5 @@
-- 👋 Hi, I’m [卢硕|Shuo Lu], from [哈尔滨工业大学 | Harbin Institute of Technology(HIT)]. I'm going to [CSAIA | 中科院自动化所] to pursue a master's degree soon.
-- 👀 I’m interested in OOD detectioin, affective computing.
+- 👋 Hi, I’m [卢硕|Shuo Lu], from [哈尔滨工业大学 | Harbin Institute of Technology(HIT)]. I'm going to [CASIA | 中科院自动化所] to pursue a master degree.
+- 👀 I’m interested in OOD detectioin, Affective computing.
 - 📫 Feel free to drop me an email (shuolucs@gmail.com) if you're interested.
 
 <!---
