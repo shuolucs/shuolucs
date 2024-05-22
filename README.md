@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [卢硕|Shuo Lu], from [哈尔滨工业大学 | Harbin Institute of Technology(HIT)].
 - 💪 I'm honored to be supervised by [Tim](http://liangjian.xyz/).
-- 👀 I’m interested in OOD detectioin, Affective computing.
+- 👀 I’m interested in OOD Detection, Affective Computing.
 - 📫 Feel free to drop me an email (shuolucs@gmail.com) if you're interested.
 
 <!---
