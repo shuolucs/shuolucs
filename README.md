@@ -1,4 +1,9 @@
-## Hi there 👋
+## About Me
+👋 Hi, I am [ 卢硕 | Shuo Lu ] from 中科院自动化研究所 | Institute of Automation, Chinese Academy of Sciences (CASIA).
+
+👀 I’m interested in: (1) OOD Detection; (2) Affective computing.
+
+📫 My email: shuolucs@gmail.com and lushuo24@mails.ucas.ac.cn
 
 <!--
 **shuolucs/shuolucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
