@@ -5,6 +5,8 @@
 
 📫 My email: shuolucs@gmail.com and lushuo24@mails.ucas.ac.cn
 
+🌱 Have an Octotastic day!
+
 <!--
 **shuolucs/shuolucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
