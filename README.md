@@ -3,7 +3,7 @@
 
 👀 I’m interested in: (1) Trustworthy ML; (2) Reinforcement Learning.
 
-📫 My email: shuolucs@gmail.com and lushuo24@mails.ucas.ac.cn
+📫 My email: shuolucs🌀gmail.com and lushuo24🌀mails.ucas.ac.cn
 
 🌱 Have an Octotastic day!
 
