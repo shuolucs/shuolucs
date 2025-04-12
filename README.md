@@ -1,7 +1,7 @@
 ## About Me
 👋 Hi, I am [ 卢硕 | Shuo Lu ] from [中科院自动化研究所 | Institute of Automation, Chinese Academy of Sciences (CASIA)].
 
-👀 I’m interested in: (1) OOD Detection; (2) Affective computing.
+👀 I’m interested in: (1) Trustworthy ML; (2) Reinforcement Learning.
 
 📫 My email: shuolucs@gmail.com and lushuo24@mails.ucas.ac.cn
 
